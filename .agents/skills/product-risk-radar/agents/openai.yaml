@@ -1,0 +1,4 @@
+interface:
+  display_name: "Identify Product Risks in a Feature, Plan, or Code Area"
+  short_description: "Rank product, rollout, data, technical, and dependency risks."
+  default_prompt: "Use this skill to identify the risks and mitigations in this plan or feature."

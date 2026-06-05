@@ -1,0 +1,4 @@
+interface:
+  display_name: "Assess Codebase Quality for Product Planning"
+  short_description: "Assess maintainability, tests, release safety, and product flexibility."
+  default_prompt: "Use this skill to give a PM-readable codebase quality readout."

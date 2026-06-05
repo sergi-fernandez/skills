@@ -1,0 +1,4 @@
+interface:
+  display_name: "Find Execution Bottlenecks That Could Slow Product Delivery"
+  short_description: "Find runtime, scaling, dependency, and delivery bottlenecks."
+  default_prompt: "Use this skill to scan for execution bottlenecks and practical validation steps."

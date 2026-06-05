@@ -1,0 +1,4 @@
+interface:
+  display_name: "Prioritize Feature and Roadmap Options"
+  short_description: "Choose between product bets with scoring, sensitivity, and rationale."
+  default_prompt: "Use this skill to help me prioritize these product options."

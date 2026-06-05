@@ -1,0 +1,4 @@
+interface:
+  display_name: "Synthesize Customer and Product Evidence Into Decisions"
+  short_description: "Turn research, tickets, analytics, and feedback into decision-grade themes."
+  default_prompt: "Use this skill to synthesize this product evidence into themes and decisions."

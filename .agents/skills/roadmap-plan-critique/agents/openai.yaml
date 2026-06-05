@@ -1,0 +1,4 @@
+interface:
+  display_name: "Critique a Roadmap, Launch Plan, or Product Plan"
+  short_description: "Pressure-test outcomes, sequencing, dependencies, capacity, and gates."
+  default_prompt: "Use this skill to critique this roadmap or plan."

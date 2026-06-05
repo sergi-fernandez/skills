@@ -1,0 +1,4 @@
+interface:
+  display_name: "Map a Codebase for Product Understanding"
+  short_description: "Explain repo structure, product surfaces, flows, and change hotspots."
+  default_prompt: "Use this skill to map the repository or feature area for a product manager."

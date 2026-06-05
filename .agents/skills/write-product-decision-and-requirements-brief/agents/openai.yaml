@@ -1,0 +1,4 @@
+interface:
+  display_name: "Write a Product Decision and Requirements Brief"
+  short_description: "Turn product context into a clear decision and requirements brief."
+  default_prompt: "Use this skill to turn this product context into a concise decision and requirements brief."

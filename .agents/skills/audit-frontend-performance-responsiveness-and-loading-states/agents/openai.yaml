@@ -1,0 +1,4 @@
+interface:
+  display_name: "Audit Frontend Performance, Responsiveness, and Loading States"
+  short_description: "Check perceived speed, responsiveness, skeletons, loading, and technical UX quality."
+  default_prompt: "Use this skill to audit frontend performance, responsiveness, and loading-state quality."

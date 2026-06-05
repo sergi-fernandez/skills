@@ -1,0 +1,4 @@
+interface:
+  display_name: "Build or Challenge a Product Business Case"
+  short_description: "Draft or pressure-test a product business case and its financial levers."
+  default_prompt: "Use this skill to build or challenge the business case for this product decision."

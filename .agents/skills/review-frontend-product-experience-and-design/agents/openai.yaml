@@ -1,0 +1,4 @@
+interface:
+  display_name: "Review Frontend Product Experience and Design"
+  short_description: "Critique UI quality, workflows, responsive behavior, and missing states."
+  default_prompt: "Use this skill to review the frontend product experience and design quality."

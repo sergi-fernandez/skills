@@ -1,0 +1,4 @@
+interface:
+  display_name: "Review Strategic Positioning for a Product or Feature"
+  short_description: "Pressure-test ICP, alternatives, differentiation, proof, and urgency."
+  default_prompt: "Use this skill to review the strategic positioning of this product, feature, or offer."

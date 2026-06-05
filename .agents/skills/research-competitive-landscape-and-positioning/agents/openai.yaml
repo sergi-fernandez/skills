@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research a Competitive Landscape and Product Positioning"
+  short_description: "Find competitors, alternatives, positioning, pricing, gaps, and differentiation."
+  default_prompt: "Use this skill to research the competitive landscape and positioning for this product or market."
